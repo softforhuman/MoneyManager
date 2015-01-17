@@ -40,6 +40,6 @@ Features
 
 
 **We are grateful to Denis Solonenko
--This application is an extended version of popular open source personal finance application "financisto" 
--Financisto source code link: https://github.com/dsolonenko/financisto
--Financisto app store link: https://play.google.com/store/apps/details?id=ru.orangesoftware.financisto
+- This application is an extended version of popular open source personal finance application "financisto" 
+- Financisto source code link: https://github.com/dsolonenko/financisto
+- Financisto app store link: https://play.google.com/store/apps/details?id=ru.orangesoftware.financisto
